@@ -32,7 +32,7 @@ This is difficult to explain in an all-in-one tutorial because the user interfac
 
 It might be best to google how to configure port forwarding with your router make and model, but he's a few that I know. 
 ### Asus Routers
-Find your Gateway IP Address by clicking on the Windows Start button and typing "cmd", Select "Command Prompt". Within the command Prompt, type "ipconfig". Look for "Default Gateway", It should be some private IP address and usually ends in one (192.168.x.1 or 10.x.x.1). Type that IP address into your router. Log in using the credintials your created when you first set up the router. 
+Find your Gateway IP Address by clicking on the Windows Start button and typing "cmd", Select "Command Prompt". Within the command Prompt, type "ipconfig". Look for "Default Gateway", It should be some private IP address and usually ends in one (192.168.x.1 or 10.x.x.1). Type that IP address into your browser. Log in using the credintials you created when you first set up the router. 
 
 Click on WAN on the left panel. Click on the "Virtual Server / Port Forwarding" Tab
 
