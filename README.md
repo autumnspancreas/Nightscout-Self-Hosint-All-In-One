@@ -1,4 +1,4 @@
-# Nightscout-Self-Hosint-All-In-One
+# Nightscout-Self-Hosting-All-In-One
 All-in-one guide to self-host Nightscout using an old computer or laptop
 Still a work in Prograss. DO NOT USE YET!
 
