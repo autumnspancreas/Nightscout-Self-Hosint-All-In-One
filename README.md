@@ -14,7 +14,7 @@ Pick a public domain from the dropdown menu and then choose a subdomain (like 'n
 
 Complete the Captcha and click "Save".
 
-That's your domain name now! It automatically chooses the external IP Address that you using so it will work until your ISP changes your IP address. We will set up the DDNS renewal script on your Nightscout server once it's fully built. 
+You have a domain name now! Remember that it has 3 parts between the periods (or dots). nightscout.example.com, or ns.domain.tk, etc. It automatically chooses the external IP Address that you using so it will work until your ISP changes your IP address. We will set up the DDNS renewal script on your Nightscout server once it's fully built. 
 
 ## Downloading the Linux ISO File and burning it into a USB Drive
 Most Nightscout self-hosting tutorials that I've seen use Ubuntu as the Linux distribution. To add some diversity and because I really respect Red Hat as a company (they are fiercely supportive of open source projects and because of that, I have to give them credit). While there are a handful of Red Hat distributions (RHEL, Fedora, CentOS, Suse, Rocky, Oracle, etc) I am going to build CentOS Stream 8.
